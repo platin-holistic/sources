@@ -1,6 +1,6 @@
 <h1>How to?</h1>
 
-1. At machine you initialize IBM Guardium SSH automation;
+1. The machine you will use to perform the SSH automation;
     - Run <code>ssh-keygen</code> command.
          - Keep passphrase empty. (hit enter)
          - Overwrite if it asks.
