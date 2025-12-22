@@ -14,7 +14,7 @@
 
 4. Access to Guardium CLI:
     - Run <code>store system public key authorized</code> command.
-    - Paste public key you stored previous step.
+    - Paste public key you stored at previous step.
       <img width="1126" height="376" alt="image" src="https://github.com/user-attachments/assets/cb3eea19-b7c9-40cd-b7ac-dab36b33959e" />
 5. Now you can run commands via SSH access.
 
