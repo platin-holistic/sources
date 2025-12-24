@@ -10,7 +10,7 @@
 
 - <p align="left">Hashicorp Vault and IBM Guardium materials</p>
 
-<h3 align="left">🛠 Language, tools adn products</h3>
+<h3 align="left">🛠 Language, tools and products</h3>
 
 ###
 
