@@ -2,17 +2,16 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
-<p align="left">Repository of Holistic Security</p>
+<h3>Repository of Holistic Security</h3>
 
 - <p align="left">Hashicorp Vault and IBM Guardium materials</p>
 
-<h3 align="left">🛠 Language, tools and products</h3>
+<h3>Notes</h3>
 
-###
+* VaultSharp package is used at Hashicorp Vault integrations.
+* IBM Guardium REST API is used at some of Guardium examples.
+
+<h3 align="left">Language, tools and products</h3>
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/18f34435-ea74-4b7d-b97f-700e56b70793" height="40" alt="ibmgdp logo"  />
@@ -27,6 +26,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> 
 </div>
