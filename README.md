@@ -7,7 +7,8 @@
 ###
 
 <p align="left">Repository of Holistic Security</p>
-<p align="left">Hashicorp Vault and IBM Guardium materials</p>
+
+- <p align="left">Hashicorp Vault and IBM Guardium materials</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
